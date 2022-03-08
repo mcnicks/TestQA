@@ -1,0 +1,22 @@
+{
+  "<описание фичи>.<описание сценария>" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c45fd74adce2b6bd",
+      "status" : "failed",
+      "statusDetails" : "Окно с заголовком <Заказ (создание)> не найдено.",
+      "time" : {
+        "start" : 1646733819047,
+        "stop" : 1646733858499,
+        "duration" : 39452
+      }
+    } ]
+  }
+}

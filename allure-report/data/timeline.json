@@ -1,0 +1,35 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-PJ9U4DA",
+    "children" : [ {
+      "name" : "<описание сценария>",
+      "uid" : "5ce748ae7fc52f6c",
+      "parentUid" : "a09b0cc98e77fa72b02a52cf06d58e8d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646733817400,
+        "stop" : 1646733817665,
+        "duration" : 265
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "<описание сценария>",
+      "uid" : "c45fd74adce2b6bd",
+      "parentUid" : "a09b0cc98e77fa72b02a52cf06d58e8d",
+      "status" : "failed",
+      "time" : {
+        "start" : 1646733819047,
+        "stop" : 1646733858499,
+        "duration" : 39452
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "a09b0cc98e77fa72b02a52cf06d58e8d"
+  } ]
+}

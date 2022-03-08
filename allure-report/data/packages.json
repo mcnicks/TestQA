@@ -1,0 +1,22 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "Module 1",
+    "children" : [ {
+      "name" : "<описание сценария>",
+      "uid" : "c45fd74adce2b6bd",
+      "parentUid" : "7ee1c0801945a371d7239dacc15a2142",
+      "status" : "failed",
+      "time" : {
+        "start" : 1646733819047,
+        "stop" : 1646733858499,
+        "duration" : 39452
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "7ee1c0801945a371d7239dacc15a2142"
+  } ]
+}

@@ -1,0 +1,26 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "<описание сценария>",
+    "children" : [ {
+      "name" : "<описание сценария>",
+      "children" : [ {
+        "name" : "<описание сценария>",
+        "uid" : "c45fd74adce2b6bd",
+        "parentUid" : "a623bdb58453130836ef7d1aef5bdd4f",
+        "status" : "failed",
+        "time" : {
+          "start" : 1646733819047,
+          "stop" : 1646733858499,
+          "duration" : 39452
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a623bdb58453130836ef7d1aef5bdd4f"
+    } ],
+    "uid" : "fe2a0af907ab2e31868634f802626288"
+  } ]
+}
