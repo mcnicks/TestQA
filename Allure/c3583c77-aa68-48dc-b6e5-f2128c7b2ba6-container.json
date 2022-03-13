@@ -1,0 +1,11 @@
+{
+	"uuid": "5e513a5c-9788-4b1e-92fe-9137f06d2f21",
+	"name": "Контекст_Refill constant КодНовогоУзлаПланаОбмена by value",
+	"description": "",
+	"children": [
+		"c3583c77-aa68-48dc-b6e5-f2128c7b2ba6"
+	],
+	"befores": [],
+	"start": null,
+	"stop": null
+}

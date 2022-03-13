@@ -1,0 +1,11 @@
+{
+	"uuid": "b938d1b8-4520-4cb0-a905-71761e171329",
+	"name": "Контекст_Refill constant АдресPOP3Сервера by value",
+	"description": "",
+	"children": [
+		"a6beaf1c-534b-4c2c-aadb-415244346b64"
+	],
+	"befores": [],
+	"start": null,
+	"stop": null
+}

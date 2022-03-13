@@ -1,0 +1,11 @@
+{
+	"uuid": "40a3a371-fd6b-4586-89e5-8d7eb31c3a97",
+	"name": "Контекст_Refill constant РаботаСТорговымОборудованием by value",
+	"description": "",
+	"children": [
+		"ee84d31f-95b6-400b-b9c7-10959b14938a"
+	],
+	"befores": [],
+	"start": null,
+	"stop": null
+}

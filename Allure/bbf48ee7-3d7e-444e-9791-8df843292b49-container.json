@@ -1,0 +1,11 @@
+{
+	"uuid": "6b4c2e3e-743b-4dda-95f9-a1a33325602a",
+	"name": "Контекст_Refill constant ИспользоватьСотовуюСеть by value",
+	"description": "",
+	"children": [
+		"bbf48ee7-3d7e-444e-9791-8df843292b49"
+	],
+	"befores": [],
+	"start": null,
+	"stop": null
+}

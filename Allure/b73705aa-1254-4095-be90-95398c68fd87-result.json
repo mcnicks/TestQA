@@ -1,0 +1,303 @@
+{
+	"uuid": "b73705aa-1254-4095-be90-95398c68fd87",
+	"historyId": "export scenarios.Data preparation",
+	"name": "Data preparation",
+	"fullName": null,
+	"start": 1647162320579,
+	"stop": 1647162321576,
+	"statusDetails": {
+		"known": false,
+		"muted": false,
+		"flaky": false
+	},
+	"status": "passed",
+	"stage": "finished",
+	"steps": [
+		{
+			"name": "And I check or create catalog \"Валюты\" objects:",
+			"start": 1647162320875,
+			"stop": 1647162320941,
+			"status": "passed",
+			"stage": "finished",
+			"statusDetails": {
+				"known": false,
+				"muted": false,
+				"flaky": false
+			},
+			"parameters": [
+				{
+					"name": "Парам1",
+					"value": "Валюты"
+				}
+			],
+			"attachments": [
+				{
+					"name": "table",
+					"source": "35ff3f3b-f1dd-4267-b11c-7776d3af1a56-attachment.csv",
+					"type": "text/csv"
+				}
+			],
+			"steps": []
+		},
+		{
+			"name": "And I check or create catalog \"ВидыЦен\" objects:",
+			"start": 1647162320949,
+			"stop": 1647162320989,
+			"status": "passed",
+			"stage": "finished",
+			"statusDetails": {
+				"known": false,
+				"muted": false,
+				"flaky": false
+			},
+			"parameters": [
+				{
+					"name": "Парам1",
+					"value": "ВидыЦен"
+				}
+			],
+			"attachments": [
+				{
+					"name": "table",
+					"source": "0211bf7b-7788-45a3-991e-40ad57871b1b-attachment.csv",
+					"type": "text/csv"
+				}
+			],
+			"steps": []
+		},
+		{
+			"name": "And I check or create catalog \"Контрагенты\" objects:",
+			"start": 1647162320995,
+			"stop": 1647162321118,
+			"status": "passed",
+			"stage": "finished",
+			"statusDetails": {
+				"known": false,
+				"muted": false,
+				"flaky": false
+			},
+			"parameters": [
+				{
+					"name": "Парам1",
+					"value": "Контрагенты"
+				}
+			],
+			"attachments": [
+				{
+					"name": "table",
+					"source": "e61b53ee-3f01-4943-951b-6c727702ee3a-attachment.csv",
+					"type": "text/csv"
+				}
+			],
+			"steps": []
+		},
+		{
+			"name": "And I check or create catalog \"Организации\" objects:",
+			"start": 1647162321125,
+			"stop": 1647162321164,
+			"status": "passed",
+			"stage": "finished",
+			"statusDetails": {
+				"known": false,
+				"muted": false,
+				"flaky": false
+			},
+			"parameters": [
+				{
+					"name": "Парам1",
+					"value": "Организации"
+				}
+			],
+			"attachments": [
+				{
+					"name": "table",
+					"source": "8c42bbe9-cf64-464e-a8e0-8d4413720ef6-attachment.csv",
+					"type": "text/csv"
+				}
+			],
+			"steps": []
+		},
+		{
+			"name": "And I check or create catalog \"Пользователи\" objects:",
+			"start": 1647162321171,
+			"stop": 1647162321220,
+			"status": "passed",
+			"stage": "finished",
+			"statusDetails": {
+				"known": false,
+				"muted": false,
+				"flaky": false
+			},
+			"parameters": [
+				{
+					"name": "Парам1",
+					"value": "Пользователи"
+				}
+			],
+			"attachments": [
+				{
+					"name": "table",
+					"source": "3793770b-d4ed-430b-b0cd-9bc2ad626c99-attachment.csv",
+					"type": "text/csv"
+				}
+			],
+			"steps": []
+		},
+		{
+			"name": "And I check or create catalog \"Регионы\" objects:",
+			"start": 1647162321228,
+			"stop": 1647162321291,
+			"status": "passed",
+			"stage": "finished",
+			"statusDetails": {
+				"known": false,
+				"muted": false,
+				"flaky": false
+			},
+			"parameters": [
+				{
+					"name": "Парам1",
+					"value": "Регионы"
+				}
+			],
+			"attachments": [
+				{
+					"name": "table",
+					"source": "275b1e1a-44da-480d-b224-17de1a4b9e98-attachment.csv",
+					"type": "text/csv"
+				}
+			],
+			"steps": []
+		},
+		{
+			"name": "And I check or create catalog \"Склады\" objects:",
+			"start": 1647162321297,
+			"stop": 1647162321336,
+			"status": "passed",
+			"stage": "finished",
+			"statusDetails": {
+				"known": false,
+				"muted": false,
+				"flaky": false
+			},
+			"parameters": [
+				{
+					"name": "Парам1",
+					"value": "Склады"
+				}
+			],
+			"attachments": [
+				{
+					"name": "table",
+					"source": "17d0aeff-6732-43d8-86d3-af9e1c8759dd-attachment.csv",
+					"type": "text/csv"
+				}
+			],
+			"steps": []
+		},
+		{
+			"name": "And I check or create catalog \"Товары\" objects:",
+			"start": 1647162321342,
+			"stop": 1647162321462,
+			"status": "passed",
+			"stage": "finished",
+			"statusDetails": {
+				"known": false,
+				"muted": false,
+				"flaky": false
+			},
+			"parameters": [
+				{
+					"name": "Парам1",
+					"value": "Товары"
+				}
+			],
+			"attachments": [
+				{
+					"name": "table",
+					"source": "cf4a9314-8c29-4817-9200-86e7a74d68b1-attachment.csv",
+					"type": "text/csv"
+				}
+			],
+			"steps": []
+		},
+		{
+			"name": "And I check or create document \"Заказ\" objects:",
+			"start": 1647162321467,
+			"stop": 1647162321530,
+			"status": "passed",
+			"stage": "finished",
+			"statusDetails": {
+				"known": false,
+				"muted": false,
+				"flaky": false
+			},
+			"parameters": [
+				{
+					"name": "Парам1",
+					"value": "Заказ"
+				}
+			],
+			"attachments": [
+				{
+					"name": "table",
+					"source": "485d218d-66a8-4331-a4c3-adb2f9a775db-attachment.csv",
+					"type": "text/csv"
+				}
+			],
+			"steps": []
+		},
+		{
+			"name": "And I refill object tabular section \"Товары\":",
+			"start": 1647162321535,
+			"stop": 1647162321570,
+			"status": "passed",
+			"stage": "finished",
+			"statusDetails": {
+				"known": false,
+				"muted": false,
+				"flaky": false
+			},
+			"parameters": [
+				{
+					"name": "Парам1",
+					"value": "Товары"
+				}
+			],
+			"attachments": [
+				{
+					"name": "table",
+					"source": "36e87a25-2d7c-4e17-9f9c-5c1620c9e666-attachment.csv",
+					"type": "text/csv"
+				}
+			],
+			"steps": []
+		}
+	],
+	"parameters": [],
+	"labels": [
+		{
+			"name": "story",
+			"value": "Data preparation"
+		},
+		{
+			"name": "feature",
+			"value": "Data preparation"
+		},
+		{
+			"name": "tag",
+			"value": "tree"
+		},
+		{
+			"name": "package",
+			"value": "Module 2"
+		},
+		{
+			"name": "host",
+			"value": "DESKTOP-PJ9U4DA"
+		}
+	],
+	"links": [],
+	"attachments": [],
+	"description": null
+}

@@ -1,0 +1,11 @@
+{
+	"uuid": "5cb067ce-8037-4e23-8fa8-0494debae692",
+	"name": "Контекст_Refill constant ИспользоватьСпутники by value",
+	"description": "",
+	"children": [
+		"8a22288f-7748-4b1c-afca-60518e5904e4"
+	],
+	"befores": [],
+	"start": null,
+	"stop": null
+}

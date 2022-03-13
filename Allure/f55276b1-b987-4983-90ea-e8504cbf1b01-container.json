@@ -1,0 +1,58 @@
+{
+	"uuid": "adc31611-710c-4d67-9705-0614f5b269c1",
+	"name": "Контекст_Refill constant SSLIMAP by value",
+	"description": "",
+	"children": [
+		"f55276b1-b987-4983-90ea-e8504cbf1b01"
+	],
+	"befores": [
+		{
+			"name": "Given I launch TestClient opening script or connect the existing one",
+			"start": null,
+			"stop": null,
+			"status": "passed",
+			"stage": "finished",
+			"statusDetails": {
+				"known": false,
+				"muted": false,
+				"flaky": false
+			},
+			"parameters": [],
+			"attachments": [],
+			"steps": [
+				{
+					"name": "Given I open new TestClient session or connect the existing one",
+					"start": 1647162258209,
+					"stop": 1647162259184,
+					"status": "passed",
+					"stage": "finished",
+					"statusDetails": {
+						"known": false,
+						"muted": false,
+						"flaky": false
+					},
+					"parameters": [],
+					"attachments": [],
+					"steps": []
+				},
+				{
+					"name": "And I close all client application windows",
+					"start": 1647162259299,
+					"stop": 1647162259419,
+					"status": "passed",
+					"stage": "finished",
+					"statusDetails": {
+						"known": false,
+						"muted": false,
+						"flaky": false
+					},
+					"parameters": [],
+					"attachments": [],
+					"steps": []
+				}
+			]
+		}
+	],
+	"start": null,
+	"stop": null
+}

@@ -1,0 +1,67 @@
+{
+	"uuid": "403115e9-6a65-4478-874a-71994752dceb",
+	"historyId": "export scenarios.Refill constant ТолькоЗащищеннаяАутентификацияIMAP by value",
+	"name": "Refill constant ТолькоЗащищеннаяАутентификацияIMAP by value",
+	"fullName": null,
+	"start": 1647162312564,
+	"stop": 1647162313058,
+	"statusDetails": {
+		"known": false,
+		"muted": false,
+		"flaky": false
+	},
+	"status": "passed",
+	"stage": "finished",
+	"steps": [
+		{
+			"name": "And I refill constant \"ТолькоЗащищеннаяАутентификацияIMAP\" by value \"False\"",
+			"start": 1647162313018,
+			"stop": 1647162313053,
+			"status": "passed",
+			"stage": "finished",
+			"statusDetails": {
+				"known": false,
+				"muted": false,
+				"flaky": false
+			},
+			"parameters": [
+				{
+					"name": "Парам1",
+					"value": "ТолькоЗащищеннаяАутентификацияIMAP"
+				},
+				{
+					"name": "Парам2",
+					"value": "False"
+				}
+			],
+			"attachments": [],
+			"steps": []
+		}
+	],
+	"parameters": [],
+	"labels": [
+		{
+			"name": "story",
+			"value": "Refill constant ТолькоЗащищеннаяАутентификацияIMAP by value"
+		},
+		{
+			"name": "feature",
+			"value": "Refill constant ТолькоЗащищеннаяАутентификацияIMAP by value"
+		},
+		{
+			"name": "tag",
+			"value": "tree"
+		},
+		{
+			"name": "package",
+			"value": "Module 2"
+		},
+		{
+			"name": "host",
+			"value": "DESKTOP-PJ9U4DA"
+		}
+	],
+	"links": [],
+	"attachments": [],
+	"description": null
+}

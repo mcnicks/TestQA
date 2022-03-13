@@ -1,0 +1,11 @@
+{
+	"uuid": "777f5913-4334-4d0b-acc6-856edb3ba12a",
+	"name": "Контекст_Refill constant ИспользоватьWNS by value",
+	"description": "",
+	"children": [
+		"6e4df1c9-865b-4eab-a6be-bdc0797a2bb8"
+	],
+	"befores": [],
+	"start": null,
+	"stop": null
+}

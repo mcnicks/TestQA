@@ -1,10 +1,10 @@
 {
-	"uuid": "fa20e5a5-35f0-4d96-ba65-5c06835ccbb5",
-	"historyId": "<описание фичи>.<описание сценария>",
-	"name": "<описание сценария>",
+	"uuid": "f55276b1-b987-4983-90ea-e8504cbf1b01",
+	"historyId": "export scenarios.Refill constant SSLIMAP by value",
+	"name": "Refill constant SSLIMAP by value",
 	"fullName": null,
-	"start": 1646733817400,
-	"stop": 1646733817665,
+	"start": 1647162258201,
+	"stop": 1647162259475,
 	"statusDetails": {
 		"known": false,
 		"muted": false,
@@ -14,9 +14,9 @@
 	"stage": "finished",
 	"steps": [
 		{
-			"name": "Дано Я открыл новый сеанс TestClient или подключил уже существующий",
-			"start": 1646733817443,
-			"stop": 1646733817659,
+			"name": "And I refill constant \"SSLIMAP\" by value \"False\"",
+			"start": 1647162259433,
+			"stop": 1647162259465,
 			"status": "passed",
 			"stage": "finished",
 			"statusDetails": {
@@ -24,7 +24,16 @@
 				"muted": false,
 				"flaky": false
 			},
-			"parameters": [],
+			"parameters": [
+				{
+					"name": "Парам1",
+					"value": "SSLIMAP"
+				},
+				{
+					"name": "Парам2",
+					"value": "False"
+				}
+			],
 			"attachments": [],
 			"steps": []
 		}
@@ -33,11 +42,11 @@
 	"labels": [
 		{
 			"name": "story",
-			"value": "<описание сценария>"
+			"value": "Refill constant SSLIMAP by value"
 		},
 		{
 			"name": "feature",
-			"value": "<описание сценария>"
+			"value": "Refill constant SSLIMAP by value"
 		},
 		{
 			"name": "tag",
@@ -45,7 +54,7 @@
 		},
 		{
 			"name": "package",
-			"value": "Module 1"
+			"value": "Module 2"
 		},
 		{
 			"name": "host",
