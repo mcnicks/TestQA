@@ -1,0 +1,142 @@
+{
+	"uuid": "948a50c6-484d-43e2-991d-142249165d79",
+	"historyId": "Выполнение финального задания.Проверка кнопки добавление изображения",
+	"name": "Проверка кнопки добавление изображения",
+	"fullName": null,
+	"start": 1649569952461,
+	"stop": 1649569954010,
+	"statusDetails": {
+		"known": false,
+		"muted": false,
+		"flaky": false
+	},
+	"status": "passed",
+	"stage": "finished",
+	"steps": [
+		{
+			"name": "И я закрываю все окна клиентского приложения",
+			"start": 1649569952489,
+			"stop": 1649569952622,
+			"status": "passed",
+			"stage": "finished",
+			"statusDetails": {
+				"known": false,
+				"muted": false,
+				"flaky": false
+			},
+			"parameters": [],
+			"attachments": [],
+			"steps": []
+		},
+		{
+			"name": "И В командном интерфейсе я выбираю 'Товарные запасы' 'Товары'",
+			"start": 1649569952627,
+			"stop": 1649569952678,
+			"status": "passed",
+			"stage": "finished",
+			"statusDetails": {
+				"known": false,
+				"muted": false,
+				"flaky": false
+			},
+			"parameters": [
+				{
+					"name": "Парам1",
+					"value": "Товарные запасы"
+				},
+				{
+					"name": "Парам2",
+					"value": "Товары"
+				}
+			],
+			"attachments": [],
+			"steps": []
+		},
+		{
+			"name": "Тогда открылось окно 'Товары'",
+			"start": 1649569952686,
+			"stop": 1649569952820,
+			"status": "passed",
+			"stage": "finished",
+			"statusDetails": {
+				"known": false,
+				"muted": false,
+				"flaky": false
+			},
+			"parameters": [
+				{
+					"name": "Парам1",
+					"value": "Товары"
+				}
+			],
+			"attachments": [],
+			"steps": []
+		},
+		{
+			"name": "И я нажимаю на кнопку с именем 'ФормаСоздать'",
+			"start": 1649569952824,
+			"stop": 1649569952853,
+			"status": "passed",
+			"stage": "finished",
+			"statusDetails": {
+				"known": false,
+				"muted": false,
+				"flaky": false
+			},
+			"parameters": [
+				{
+					"name": "Парам1",
+					"value": "ФормаСоздать"
+				}
+			],
+			"attachments": [],
+			"steps": []
+		},
+		{
+			"name": "И элемент \"Картика\" присутствует на форме Тогда",
+			"start": 1649569952862,
+			"stop": 1649569954005,
+			"status": "passed",
+			"stage": "finished",
+			"statusDetails": {
+				"known": false,
+				"muted": false,
+				"flaky": false
+			},
+			"parameters": [
+				{
+					"name": "Парам1",
+					"value": "Картика"
+				}
+			],
+			"attachments": [],
+			"steps": []
+		}
+	],
+	"parameters": [],
+	"labels": [
+		{
+			"name": "story",
+			"value": "Проверка кнопки добавление изображения"
+		},
+		{
+			"name": "feature",
+			"value": "Проверка кнопки добавление изображения"
+		},
+		{
+			"name": "tag",
+			"value": "tree"
+		},
+		{
+			"name": "package",
+			"value": "Final"
+		},
+		{
+			"name": "host",
+			"value": "DESKTOP-PJ9U4DA"
+		}
+	],
+	"links": [],
+	"attachments": [],
+	"description": null
+}

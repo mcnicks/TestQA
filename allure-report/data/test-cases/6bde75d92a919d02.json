@@ -1,0 +1,146 @@
+{
+  "uid" : "6bde75d92a919d02",
+  "name" : "Проверка кнопки добавление изображения",
+  "historyId" : "Выполнение финального задания.Проверка кнопки добавление изображения",
+  "time" : {
+    "start" : 1649569952461,
+    "stop" : 1649569954010,
+    "duration" : 1549
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "И я закрываю все окна клиентского приложения",
+      "time" : {
+        "start" : 1649569952489,
+        "stop" : 1649569952622,
+        "duration" : 133
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "И В командном интерфейсе я выбираю 'Товарные запасы' 'Товары'",
+      "time" : {
+        "start" : 1649569952627,
+        "stop" : 1649569952678,
+        "duration" : 51
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "Парам1",
+        "value" : "Товарные запасы"
+      }, {
+        "name" : "Парам2",
+        "value" : "Товары"
+      } ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "Тогда открылось окно 'Товары'",
+      "time" : {
+        "start" : 1649569952686,
+        "stop" : 1649569952820,
+        "duration" : 134
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "Парам1",
+        "value" : "Товары"
+      } ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "И я нажимаю на кнопку с именем 'ФормаСоздать'",
+      "time" : {
+        "start" : 1649569952824,
+        "stop" : 1649569952853,
+        "duration" : 29
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "Парам1",
+        "value" : "ФормаСоздать"
+      } ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "И элемент \"Картика\" присутствует на форме Тогда",
+      "time" : {
+        "start" : 1649569952862,
+        "stop" : 1649569954005,
+        "duration" : 1143
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "Парам1",
+        "value" : "Картика"
+      } ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 5,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "Проверка кнопки добавление изображения"
+  }, {
+    "name" : "feature",
+    "value" : "Проверка кнопки добавление изображения"
+  }, {
+    "name" : "tag",
+    "value" : "tree"
+  }, {
+    "name" : "package",
+    "value" : "Final"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-PJ9U4DA"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "tree" ]
+  },
+  "source" : "6bde75d92a919d02.json",
+  "parameterValues" : [ ]
+}

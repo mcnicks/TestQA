@@ -1,0 +1,246 @@
+{
+	"uuid": "0ff0b1f0-d90c-44a3-99d6-8ce821491ddd",
+	"historyId": "Выполнение финального задания.Проверка отчета Отстатки",
+	"name": "Проверка отчета Отстатки",
+	"fullName": null,
+	"start": 1649569955226,
+	"stop": 1649569961241,
+	"statusDetails": {
+		"known": false,
+		"muted": false,
+		"flaky": false
+	},
+	"status": "passed",
+	"stage": "finished",
+	"steps": [
+		{
+			"name": "И я закрываю все окна клиентского приложения",
+			"start": 1649569955242,
+			"stop": 1649569955378,
+			"status": "passed",
+			"stage": "finished",
+			"statusDetails": {
+				"known": false,
+				"muted": false,
+				"flaky": false
+			},
+			"parameters": [],
+			"attachments": [],
+			"steps": []
+		},
+		{
+			"name": "И В командном интерфейсе я выбираю 'Товарные запасы' 'Остатки товаров'",
+			"start": 1649569955384,
+			"stop": 1649569955429,
+			"status": "passed",
+			"stage": "finished",
+			"statusDetails": {
+				"known": false,
+				"muted": false,
+				"flaky": false
+			},
+			"parameters": [
+				{
+					"name": "Парам1",
+					"value": "Товарные запасы"
+				},
+				{
+					"name": "Парам2",
+					"value": "Остатки товаров"
+				}
+			],
+			"attachments": [],
+			"steps": []
+		},
+		{
+			"name": "Тогда открылось окно 'Остатки товаров'",
+			"start": 1649569955437,
+			"stop": 1649569955558,
+			"status": "passed",
+			"stage": "finished",
+			"statusDetails": {
+				"known": false,
+				"muted": false,
+				"flaky": false
+			},
+			"parameters": [
+				{
+					"name": "Парам1",
+					"value": "Остатки товаров"
+				}
+			],
+			"attachments": [],
+			"steps": []
+		},
+		{
+			"name": "И в табличном документе 'Результат' я перехожу к ячейке \"R1C1\"",
+			"start": 1649569955563,
+			"stop": 1649569955576,
+			"status": "passed",
+			"stage": "finished",
+			"statusDetails": {
+				"known": false,
+				"muted": false,
+				"flaky": false
+			},
+			"parameters": [
+				{
+					"name": "Парам1",
+					"value": "Результат"
+				},
+				{
+					"name": "Парам2",
+					"value": "R1C1"
+				}
+			],
+			"attachments": [],
+			"steps": []
+		},
+		{
+			"name": "И я нажимаю на кнопку с именем 'ФормаЗагрузитьВариант'",
+			"start": 1649569955584,
+			"stop": 1649569955605,
+			"status": "passed",
+			"stage": "finished",
+			"statusDetails": {
+				"known": false,
+				"muted": false,
+				"flaky": false
+			},
+			"parameters": [
+				{
+					"name": "Парам1",
+					"value": "ФормаЗагрузитьВариант"
+				}
+			],
+			"attachments": [],
+			"steps": []
+		},
+		{
+			"name": "Тогда открылось окно 'Выбор варианта отчета'",
+			"start": 1649569955611,
+			"stop": 1649569955678,
+			"status": "passed",
+			"stage": "finished",
+			"statusDetails": {
+				"known": false,
+				"muted": false,
+				"flaky": false
+			},
+			"parameters": [
+				{
+					"name": "Парам1",
+					"value": "Выбор варианта отчета"
+				}
+			],
+			"attachments": [],
+			"steps": []
+		},
+		{
+			"name": "И я нажимаю на кнопку с именем 'Загрузить'",
+			"start": 1649569955684,
+			"stop": 1649569955706,
+			"status": "passed",
+			"stage": "finished",
+			"statusDetails": {
+				"known": false,
+				"muted": false,
+				"flaky": false
+			},
+			"parameters": [
+				{
+					"name": "Парам1",
+					"value": "Загрузить"
+				}
+			],
+			"attachments": [],
+			"steps": []
+		},
+		{
+			"name": "И Пауза 5",
+			"start": 1649569955713,
+			"stop": 1649569960979,
+			"status": "passed",
+			"stage": "finished",
+			"statusDetails": {
+				"known": false,
+				"muted": false,
+				"flaky": false
+			},
+			"parameters": [
+				{
+					"name": "Парам1",
+					"value": 5
+				}
+			],
+			"attachments": [],
+			"steps": []
+		},
+		{
+			"name": "Тогда открылось окно 'Остатки товаров'",
+			"start": 1649569961114,
+			"stop": 1649569961167,
+			"status": "passed",
+			"stage": "finished",
+			"statusDetails": {
+				"known": false,
+				"muted": false,
+				"flaky": false
+			},
+			"parameters": [
+				{
+					"name": "Парам1",
+					"value": "Остатки товаров"
+				}
+			],
+			"attachments": [],
+			"steps": []
+		},
+		{
+			"name": "И я нажимаю на кнопку с именем 'ФормаСформировать'",
+			"start": 1649569961171,
+			"stop": 1649569961236,
+			"status": "passed",
+			"stage": "finished",
+			"statusDetails": {
+				"known": false,
+				"muted": false,
+				"flaky": false
+			},
+			"parameters": [
+				{
+					"name": "Парам1",
+					"value": "ФормаСформировать"
+				}
+			],
+			"attachments": [],
+			"steps": []
+		}
+	],
+	"parameters": [],
+	"labels": [
+		{
+			"name": "story",
+			"value": "Проверка отчета Отстатки"
+		},
+		{
+			"name": "feature",
+			"value": "Проверка отчета Отстатки"
+		},
+		{
+			"name": "tag",
+			"value": "tree"
+		},
+		{
+			"name": "package",
+			"value": "Final"
+		},
+		{
+			"name": "host",
+			"value": "DESKTOP-PJ9U4DA"
+		}
+	],
+	"links": [],
+	"attachments": [],
+	"description": null
+}

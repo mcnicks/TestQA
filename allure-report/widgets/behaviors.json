@@ -1,13 +1,35 @@
 {
-  "total" : 1,
+  "total" : 3,
   "items" : [ {
-    "uid" : "fe2a0af907ab2e31868634f802626288",
-    "name" : "<описание сценария>",
+    "uid" : "fdc4533c64ce5b70ab6e60384c374d43",
+    "name" : "Проверка кнопки добавление изображения",
     "statistic" : {
-      "failed" : 1,
+      "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "db465d9a8e62dcb7d894fd89669c1ad8",
+    "name" : "Проверка отчета Отстатки",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "06d1615bb4cfdcf5d22e34d473cc0ce4",
+    "name" : "Проверка документа Расход товара",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
       "unknown" : 0,
       "total" : 1
     }

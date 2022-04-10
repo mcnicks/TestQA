@@ -2,21 +2,47 @@
   "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
   "name" : "packages",
   "children" : [ {
-    "name" : "Module 1",
+    "name" : "Final",
     "children" : [ {
-      "name" : "<описание сценария>",
-      "uid" : "c45fd74adce2b6bd",
-      "parentUid" : "7ee1c0801945a371d7239dacc15a2142",
-      "status" : "failed",
+      "name" : "Проверка кнопки добавление изображения",
+      "uid" : "6bde75d92a919d02",
+      "parentUid" : "be0c82b1ac8a11109ac984a7aa4c8a7d",
+      "status" : "passed",
       "time" : {
-        "start" : 1646733819047,
-        "stop" : 1646733858499,
-        "duration" : 39452
+        "start" : 1649569952461,
+        "stop" : 1649569954010,
+        "duration" : 1549
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Проверка отчета Отстатки",
+      "uid" : "d8578d1f8345e171",
+      "parentUid" : "be0c82b1ac8a11109ac984a7aa4c8a7d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649569955226,
+        "stop" : 1649569961241,
+        "duration" : 6015
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Проверка документа Расход товара",
+      "uid" : "b7401fa55761df68",
+      "parentUid" : "be0c82b1ac8a11109ac984a7aa4c8a7d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649569965197,
+        "stop" : 1649569974154,
+        "duration" : 8957
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ ]
     } ],
-    "uid" : "7ee1c0801945a371d7239dacc15a2142"
+    "uid" : "be0c82b1ac8a11109ac984a7aa4c8a7d"
   } ]
 }

@@ -1,2 +1,4 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"failed","Tue Mar 08 15:03:39 YEKT 2022","Tue Mar 08 15:04:18 YEKT 2022","39452","","","","","","<описание сценария>",""
+"passed","Sun Apr 10 10:52:32 YEKT 2022","Sun Apr 10 10:52:34 YEKT 2022","1549","","","","","","Проверка кнопки добавление изображения",""
+"passed","Sun Apr 10 10:52:35 YEKT 2022","Sun Apr 10 10:52:41 YEKT 2022","6015","","","","","","Проверка отчета Отстатки",""
+"passed","Sun Apr 10 10:52:45 YEKT 2022","Sun Apr 10 10:52:54 YEKT 2022","8957","","","","","","Проверка документа Расход товара",""

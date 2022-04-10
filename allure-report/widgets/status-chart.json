@@ -1,11 +1,31 @@
 [ {
-  "uid" : "c45fd74adce2b6bd",
-  "name" : "<описание сценария>",
+  "uid" : "6bde75d92a919d02",
+  "name" : "Проверка кнопки добавление изображения",
   "time" : {
-    "start" : 1646733819047,
-    "stop" : 1646733858499,
-    "duration" : 39452
+    "start" : 1649569952461,
+    "stop" : 1649569954010,
+    "duration" : 1549
   },
-  "status" : "failed",
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d8578d1f8345e171",
+  "name" : "Проверка отчета Отстатки",
+  "time" : {
+    "start" : 1649569955226,
+    "stop" : 1649569961241,
+    "duration" : 6015
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b7401fa55761df68",
+  "name" : "Проверка документа Расход товара",
+  "time" : {
+    "start" : 1649569965197,
+    "stop" : 1649569974154,
+    "duration" : 8957
+  },
+  "status" : "passed",
   "severity" : "normal"
 } ]
